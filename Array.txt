@@ -1,0 +1,4 @@
+int a[]={1,2,3,4}
+for(int i=0;i<a.Length();i++){
+System.out.println("the Array length is"+ a[i])
+}
